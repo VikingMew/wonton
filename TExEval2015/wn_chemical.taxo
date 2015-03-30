@@ -1,0 +1,1445 @@
+0	explosive	chemical
+1	charge	explosive
+2	shot	charge
+3	undercharge	charge
+4	rocket fuel	charge
+5	explosive compound	explosive
+6	cordite	explosive compound
+7	dynamite	explosive compound
+8	gelignite	dynamite
+9	plastic explosive	explosive compound
+10	tnt	explosive compound
+11	explosive mixture	explosive
+12	blasting gelatin	explosive mixture
+13	propellant explosive	explosive
+14	warhead	explosive
+15	atomic warhead	warhead
+16	hydrazoic acid	explosive
+17	high explosive	explosive
+18	disrupting explosive	high explosive
+19	low explosive	explosive
+20	firework	low explosive
+21	catherine wheel	firework
+22	firecracker	firework
+23	cannon cracker	firecracker
+24	cherry bomb	firecracker
+25	whizbang	firecracker
+26	fizgig	firework
+27	maroon	firework
+28	roman candle	firework
+29	serpent	firework
+30	skyrocket	firework
+31	sparkler	firework
+32	squib	firework
+33	torpedo	firework
+34	gunpowder	explosive
+35	smokeless powder	explosive
+36	tetryl	explosive
+37	reactant	chemical
+38	alar	chemical
+39	carrier	chemical
+40	bactericide	chemical
+41	carbon tetrahalide	chemical
+42	congener	chemical
+43	compound	chemical
+44	vanillin	compound
+45	acceptor	compound
+46	adduct	compound
+47	antiknock	compound
+48	tetraethyl lead	antiknock
+49	acid	compound
+50	alkapton	acid
+51	arsenic acid	acid
+52	cerotic acid	acid
+53	chloric acid	acid
+54	chlorous acid	acid
+55	monobasic acid	acid
+56	dibasic acid	acid
+57	tribasic acid	acid
+58	tetrabasic acid	acid
+59	fulminic acid	acid
+60	gamma acid	acid
+61	hydriodic acid	acid
+62	hydrocyanic acid	acid
+63	hydroxy acid	acid
+64	hydroxybenzoic acid	hydroxy acid
+65	juniperic acid	hydroxy acid
+66	salicylic acid	hydroxy acid
+67	tartaric acid	hydroxy acid
+68	racemic acid	tartaric acid
+69	hyponitrous acid	acid
+70	lysergic acid	acid
+71	manganic acid	acid
+72	methacrylic acid	acid
+73	selenic acid	acid
+74	sulfonic acid	acid
+75	titanic acid	acid
+76	perchloric acid	acid
+77	carboxylic acid	acid
+78	acetic acid	carboxylic acid
+79	acetum	acetic acid
+80	trichloroacetic acid	acetic acid
+81	vinegar	acetic acid
+82	hexanedioic acid	carboxylic acid
+83	mucic acid	carboxylic acid
+84	suberic acid	carboxylic acid
+85	succinic acid	carboxylic acid
+86	saccharic acid	carboxylic acid
+87	sebacic acid	carboxylic acid
+88	sorbic acid	carboxylic acid
+89	valeric acid	carboxylic acid
+90	fatty acid	carboxylic acid
+91	saturated fatty acid	fatty acid
+92	margaric acid	saturated fatty acid
+93	butyric acid	saturated fatty acid
+94	hydroxybutyric acid	butyric acid
+95	beta hydroxybutyric acid	hydroxybutyric acid
+96	capric acid	saturated fatty acid
+97	caproic acid	saturated fatty acid
+98	caprylic acid	saturated fatty acid
+99	lauric acid	saturated fatty acid
+100	myristic acid	saturated fatty acid
+101	palmitic acid	saturated fatty acid
+102	stearic acid	saturated fatty acid
+103	unsaturated fatty acid	fatty acid
+104	monounsaturated fatty acid	unsaturated fatty acid
+105	elaidic acid	monounsaturated fatty acid
+106	oleic acid	monounsaturated fatty acid
+107	polyunsaturated fatty acid	unsaturated fatty acid
+108	omega 3 fatty acid	polyunsaturated fatty acid
+109	alpha linolenic acid	omega 3 fatty acid
+110	docosahexaenoic acid	omega 3 fatty acid
+111	eicosapentaenoic acid	omega 3 fatty acid
+112	omega 6 fatty acid	polyunsaturated fatty acid
+113	linolenic acid	omega 6 fatty acid
+114	linoleic acid	polyunsaturated fatty acid
+115	ricinoleic acid	unsaturated fatty acid
+116	eleostearic acid	unsaturated fatty acid
+117	trans fatty acid	fatty acid
+118	elaidic acid	trans fatty acid
+119	benzoic acid	carboxylic acid
+120	propionic acid	carboxylic acid
+121	lactic acid	carboxylic acid
+122	propenoic acid	carboxylic acid
+123	aminobenzoic acid	acid
+124	nitric acid	acid
+125	nitrous acid	acid
+126	aqua regia	acid
+127	barbituric acid	acid
+128	lansoprazole	acid
+129	boric acid	acid
+130	perboric acid	boric acid
+131	boric acid	acid
+132	bromic acid	acid
+133	carbamic acid	acid
+134	carbolic acid	acid
+135	carbonic acid	acid
+136	chromic acid	acid
+137	citric acid	acid
+138	cyanamide	acid
+139	cyanic acid	acid
+140	cyanuric acid	acid
+141	ferricyanic acid	acid
+142	ferrocyanic acid	acid
+143	fluoroboric acid	acid
+144	fluosilicic acid	acid
+145	formic acid	acid
+146	fumaric acid	acid
+147	gallic acid	acid
+148	glyceric acid	acid
+149	glycolic acid	acid
+150	hydrobromic acid	acid
+151	hydrochloric acid	acid
+152	muriatic acid	hydrochloric acid
+153	hydrogen chloride	acid
+154	hydrofluoric acid	acid
+155	hydroiodic acid	acid
+156	hypochlorous acid	acid
+157	iodic acid	acid
+158	isocyanic acid	acid
+159	itaconic acid	acid
+160	maleic acid	acid
+161	oxalacetic acid	acid
+162	oxalic acid	acid
+163	oxyacid	acid
+164	hypophosphoric acid	oxyacid
+165	hypophosphorous acid	oxyacid
+166	polyphosphoric acid	oxyacid
+167	metaphosphoric acid	polyphosphoric acid
+168	pyrophosphoric acid	polyphosphoric acid
+169	periodic acid	oxyacid
+170	phosphoric acid	oxyacid
+171	tungstic acid	oxyacid
+172	vanadium pentoxide	oxyacid
+173	pantothenic acid	acid
+174	para aminobenzoic acid	acid
+175	pectic acid	acid
+176	permanganic acid	acid
+177	phthalic acid	acid
+178	picric acid	acid
+179	pyruvic acid	acid
+180	dichromic acid	acid
+181	silicic acid	acid
+182	sulfanilic acid	acid
+183	thiocyanic acid	acid
+184	toluic acid	acid
+185	triphosphoric acid	acid
+186	undecylenic acid	acid
+187	uric acid	acid
+188	vitriol	acid
+189	battery acid	vitriol
+190	xanthic acid	acid
+191	arsenide	compound
+192	hydrogen cyanide	compound
+193	anionic compound	compound
+194	base	compound
+195	pyridine	base
+196	triphosphopyridine	pyridine
+197	purine	base
+198	purine	base
+199	adenine	purine
+200	guanine	purine
+201	imidazole	base
+202	melamine	base
+203	pyrimidine	base
+204	cytosine	pyrimidine
+205	thymine	pyrimidine
+206	binary compound	compound
+207	sodium chloride	binary compound
+208	halite	sodium chloride
+209	ammonia	binary compound
+210	ammonium	ammonia
+211	calcium carbide	binary compound
+212	water	binary compound
+213	tap water	water
+214	bath water	water
+215	dishwater	water
+216	distilled water	water
+217	holy water	water
+218	ground water	water
+219	hard water	water
+220	limewater	water
+221	meltwater	water
+222	seawater	water
+223	red tide	seawater
+224	fresh water	water
+225	rain	fresh water
+226	condensate	fresh water
+227	slush	water
+228	soft water	water
+229	bilge	water
+230	water of crystallization	water
+231	hydride	binary compound
+232	hydrazoic acid	hydride
+233	calcium hydride	hydride
+234	sodium hydride	hydride
+235	taurine	compound
+236	chromogen	compound
+237	urobilinogen	chromogen
+238	manganese tetroxide	compound
+239	monomer	compound
+240	ozonide	compound
+241	organic compound	compound
+242	aldehyde	organic compound
+243	paraldehyde	aldehyde
+244	acetaldehyde	aldehyde
+245	formaldehyde	aldehyde
+246	furfural	aldehyde
+247	glyceraldehyde	aldehyde
+248	propanal	aldehyde
+249	propenal	aldehyde
+250	aliphatic compound	organic compound
+251	acetylene	aliphatic compound
+252	alicyclic compound	aliphatic compound
+253	alkene	aliphatic compound
+254	ethylene	alkene
+255	trichloroethylene	ethylene
+256	methane series	aliphatic compound
+257	butane	methane series
+258	amine	methane series
+259	histamine	amine
+260	aniline	amine
+261	enamine	amine
+262	monoamine	amine
+263	monoamine neurotransmitter	monoamine
+264	noradrenaline	monoamine neurotransmitter
+265	serotonin	monoamine neurotransmitter
+266	dopamine	monoamine neurotransmitter
+267	ptomaine	amine
+268	putrescine	ptomaine
+269	cadaverine	ptomaine
+270	ethane	methane series
+271	heptane	methane series
+272	hexane	methane series
+273	methane	methane series
+274	marsh gas	methane
+275	alkylbenzene	organic compound
+276	toluene	alkylbenzene
+277	alkyl halide	organic compound
+278	haloform	alkyl halide
+279	chloroform	haloform
+280	bromoform	haloform
+281	fluoroform	haloform
+282	iodoform	haloform
+283	amino acid	organic compound
+284	alanine	amino acid
+285	asparagine	amino acid
+286	aspartic acid	amino acid
+287	canavanine	amino acid
+288	citrulline	amino acid
+289	cysteine	amino acid
+290	cystine	amino acid
+291	dopa	amino acid
+292	l dopa	dopa
+293	essential amino acid	amino acid
+294	arginine	essential amino acid
+295	histidine	essential amino acid
+296	isoleucine	essential amino acid
+297	leucine	essential amino acid
+298	lysine	essential amino acid
+299	methionine	essential amino acid
+300	phenylalanine	essential amino acid
+301	threonine	essential amino acid
+302	tryptophan	essential amino acid
+303	valine	essential amino acid
+304	gamma aminobutyric acid	amino acid
+305	glutamic acid	amino acid
+306	glutamine	amino acid
+307	glycine	amino acid
+308	hydroxyproline	amino acid
+309	iodoamino acid	amino acid
+310	iodotyrosine	iodoamino acid
+311	mono iodotyrosine	iodotyrosine
+312	di iodotyrosine	iodotyrosine
+313	iodothyronine	iodoamino acid
+314	tri iodothyronine	iodothyronine
+315	ornithine	amino acid
+316	proline	amino acid
+317	creatine	amino acid
+318	sarcosine	amino acid
+319	serine	amino acid
+320	thyronine	amino acid
+321	tyramine	amino acid
+322	tyrosine	amino acid
+323	diamine	organic compound
+324	enol	organic compound
+325	halon	organic compound
+326	peptone	organic compound
+327	quaternary ammonium compound	organic compound
+328	proenzyme	organic compound
+329	propylthiouracil	organic compound
+330	ether	organic compound
+331	acetal	organic compound
+332	aldol	organic compound
+333	acetaldol	aldol
+334	alkaloid	organic compound
+335	atropine	alkaloid
+336	belladonna	atropine
+337	hyoscyamine	alkaloid
+338	pilocarpine	alkaloid
+339	scopolamine	alkaloid
+340	physostigmine	alkaloid
+341	cinchonine	alkaloid
+342	ephedrine	alkaloid
+343	ergonovine	alkaloid
+344	ergotamine	alkaloid
+345	pseudoephedrine	alkaloid
+346	nicotine	alkaloid
+347	strychnine	alkaloid
+348	brucine	alkaloid
+349	betaine	alkaloid
+350	caffeine	alkaloid
+351	rauwolfia	alkaloid
+352	tubocurarine	alkaloid
+353	amide	organic compound
+354	acetamide	amide
+355	acrylamide	amide
+356	peptide	amide
+357	fibrinopeptide	peptide
+358	polypeptide	peptide
+359	endorphin	peptide
+360	beta endorphin	endorphin
+361	enkephalin	endorphin
+362	proprionamide	amide
+363	rennet	organic compound
+364	azadirachtin	organic compound
+365	thiazine	organic compound
+366	methylene blue	thiazine
+367	phenothiazine	thiazine
+368	chlorpromazine	phenothiazine
+369	cacodyl	organic compound
+370	neurochemical	organic compound
+371	neurotransmitter	neurochemical
+372	epinephrine	neurotransmitter
+373	gamma aminobutyric acid	neurotransmitter
+374	acetylcholine	neurotransmitter
+375	endorphin	neurochemical
+376	beta endorphin	endorphin
+377	enkephalin	endorphin
+378	acyl anhydrides	organic compound
+379	acyl halide	organic compound
+380	acetyl chloride	acyl halide
+381	creosote	organic compound
+382	creosote	organic compound
+383	nitrile	organic compound
+384	propenonitrile	nitrile
+385	cyanohydrin	organic compound
+386	ester	organic compound
+387	citrate	ester
+388	lactate	ester
+389	banana oil	ester
+390	cellulose ester	ester
+391	cellulose nitrate	cellulose ester
+392	pyrocellulose	cellulose nitrate
+393	pyroxylin	cellulose nitrate
+394	cellulose acetate	cellulose ester
+395	cellulose triacetate	cellulose acetate
+396	cellulose xanthate	cellulose ester
+397	cyclohexanol phthalate	ester
+398	ethyl acetate	ester
+399	glyceryl ester	ester
+400	butyrin	glyceryl ester
+401	tributyrin	butyrin
+402	glyceride	glyceryl ester
+403	triglyceride	glyceride
+404	glycerin jelly	glyceryl ester
+405	glycerite	glyceryl ester
+406	glycerogelatin	glyceryl ester
+407	palmitin	glyceryl ester
+408	stearin	glyceryl ester
+409	margarin	glyceryl ester
+410	triolein	glyceryl ester
+411	tripalmitin	glyceryl ester
+412	tristearin	glyceryl ester
+413	maleate	ester
+414	nucleotide	ester
+415	base pair	nucleotide
+416	adenosine monophosphate	nucleotide
+417	adenosine diphosphate	nucleotide
+418	adenosine triphosphate	nucleotide
+419	deoxyadenosine monophosphate	nucleotide
+420	deoxycytidine monophosphate	nucleotide
+421	deoxyguanosine monophosphate	nucleotide
+422	deoxythymidine monophosphate	nucleotide
+423	muton	nucleotide
+424	uracil	nucleotide
+425	polyester	ester
+426	urethane	ester
+427	furan	organic compound
+428	nitrofuran	furan
+429	glycoside	organic compound
+430	glucoside	glycoside
+431	amygdalin	glucoside
+432	laetrile	amygdalin
+433	saponin	glucoside
+434	nucleoside	glycoside
+435	adenosine	nucleoside
+436	inosine	nucleoside
+437	deoxyadenosine	nucleoside
+438	deoxycytidine	nucleoside
+439	deoxyguanosine	nucleoside
+440	deoxythymidine	nucleoside
+441	strophanthin	glycoside
+442	resin	organic compound
+443	east india kino	resin
+444	natural resin	resin
+445	sandarac	natural resin
+446	guaiacum	natural resin
+447	storax	natural resin
+448	scammony	natural resin
+449	acaroid resin	natural resin
+450	anime	natural resin
+451	asafetida	natural resin
+452	camphor	natural resin
+453	cannabin	natural resin
+454	amber	natural resin
+455	copal	natural resin
+456	courbaril copal	copal
+457	copalite	copal
+458	congo copal	copal
+459	kauri	copal
+460	zanzibar copal	copal
+461	dammar	natural resin
+462	colophony	natural resin
+463	mastic	natural resin
+464	oleoresin	natural resin
+465	labdanum	oleoresin
+466	balsam	oleoresin
+467	tolu	balsam
+468	balsam of peru	tolu
+469	balm	balsam
+470	balm of gilead	balm
+471	canada balsam	oleoresin
+472	turpentine	oleoresin
+473	chian turpentine	turpentine
+474	copaiba	oleoresin
+475	labdanum	oleoresin
+476	oleoresin capiscum	oleoresin
+477	gum resin	natural resin
+478	elemi	gum resin
+479	myrrh	gum resin
+480	sonora gum	gum resin
+481	benzoin	gum resin
+482	bdellium	gum resin
+483	gamboge	gum resin
+484	wood tar	natural resin
+485	pine tar	wood tar
+486	synthetic resin	resin
+487	acrylic	synthetic resin
+488	polypropenonitrile	acrylic
+489	polymethyl methacrylate	acrylic
+490	lucite	polymethyl methacrylate
+491	plexiglas	polymethyl methacrylate
+492	polyethylene	synthetic resin
+493	allyl resin	synthetic resin
+494	urea formaldehyde resin	synthetic resin
+495	alkyd	synthetic resin
+496	phenolic resin	synthetic resin
+497	epoxy	synthetic resin
+498	crazy glue	epoxy
+499	melamine resin	synthetic resin
+500	polyester	synthetic resin
+501	polyester fiber	polyester
+502	vinyl polymer	synthetic resin
+503	polyvinyl acetate	vinyl polymer
+504	polyvinyl chloride	vinyl polymer
+505	styrene	vinyl polymer
+506	polystyrene	styrene
+507	styrofoam	polystyrene
+508	halocarbon	organic compound
+509	fluorocarbon	halocarbon
+510	chlorofluorocarbon	fluorocarbon
+511	hydrochlorofluorocarbon	chlorofluorocarbon
+512	freon	chlorofluorocarbon
+513	hydrofluorocarbon	fluorocarbon
+514	perfluorocarbon	fluorocarbon
+515	tetrafluoroethylene	fluorocarbon
+516	hemiacetal	organic compound
+517	hemolysin	organic compound
+518	streptolysin	hemolysin
+519	humic substance	organic compound
+520	fulvic acid	humic substance
+521	humic acid	humic substance
+522	humin	humic substance
+523	hydrocarbon	organic compound
+524	chlorobenzene	hydrocarbon
+525	aromatic compound	hydrocarbon
+526	gasohol	hydrocarbon
+527	gasoline	hydrocarbon
+528	leaded gasoline	gasoline
+529	napalm	gasoline
+530	unleaded gasoline	gasoline
+531	kerosene	hydrocarbon
+532	paraffin	kerosene
+533	aromatic hydrocarbon	hydrocarbon
+534	benzene	aromatic hydrocarbon
+535	benzene formula	benzene
+536	indene	hydrocarbon
+537	cymene	hydrocarbon
+538	dioxin	hydrocarbon
+539	ethane	hydrocarbon
+540	liquefied petroleum gas	hydrocarbon
+541	bitumen	hydrocarbon
+542	pitch	bitumen
+543	coal tar	pitch
+544	butadiene	hydrocarbon
+545	chloroprene	butadiene
+546	naphtha	hydrocarbon
+547	naphthalene	hydrocarbon
+548	pyrene	hydrocarbon
+549	octane	hydrocarbon
+550	gas oil	hydrocarbon
+551	terpene	hydrocarbon
+552	limonene	terpene
+553	provitamin	hydrocarbon
+554	provitamin a	provitamin
+555	beta carotene	provitamin a
+556	ketone	organic compound
+557	acetone	ketone
+558	butanone	ketone
+559	flavin	ketone
+560	ketone body	ketone
+561	acetoacetic acid	ketone body
+562	beta hydroxybutyric acid	ketone body
+563	macromolecule	organic compound
+564	protein	macromolecule
+565	capsid	protein
+566	gluten	protein
+567	corn gluten	gluten
+568	wheat gluten	gluten
+569	recombinant protein	protein
+570	actomyosin	protein
+571	aleurone	protein
+572	amyloid	protein
+573	apoenzyme	protein
+574	conjugated protein	protein
+575	glycoprotein	conjugated protein
+576	mucin	glycoprotein
+577	erythropoietin	glycoprotein
+578	cluster of differentiation 4	glycoprotein
+579	cluster of differentiation 8	glycoprotein
+580	lectin	glycoprotein
+581	mucoid	glycoprotein
+582	hemoprotein	conjugated protein
+583	hemoglobin	hemoprotein
+584	oxyhemoglobin	hemoglobin
+585	myoglobin	hemoprotein
+586	cytochrome	hemoprotein
+587	cytochrome c	cytochrome
+588	lipoprotein	conjugated protein
+589	high density lipoprotein	lipoprotein
+590	low density lipoprotein	lipoprotein
+591	very low density lipoprotein	lipoprotein
+592	enzyme	protein
+593	adenosine deaminase	enzyme
+594	amylase	enzyme
+595	ptyalin	amylase
+596	cholinesterase	enzyme
+597	coagulase	enzyme
+598	thrombin	coagulase
+599	rennin	coagulase
+600	collagenase	enzyme
+601	complement	enzyme
+602	catalase	enzyme
+603	cyclooxygenase	enzyme
+604	cyclooxygenase 1	cyclooxygenase
+605	cyclooxygenase 2	cyclooxygenase
+606	decarboxylase	enzyme
+607	de iodinase	enzyme
+608	disaccharidase	enzyme
+609	invertase	disaccharidase
+610	lactase	disaccharidase
+611	elastase	enzyme
+612	enterokinase	enzyme
+613	histaminase	enzyme
+614	hyaluronidase	enzyme
+615	isomerase	enzyme
+616	kinase	enzyme
+617	lipase	enzyme
+618	lysozyme	enzyme
+619	monoamine oxidase	enzyme
+620	nitrogenase	enzyme
+621	nuclease	enzyme
+622	endonuclease	nuclease
+623	restriction endonuclease	endonuclease
+624	exonuclease	nuclease
+625	oxidase	enzyme
+626	peroxidase	oxidase
+627	glutathione peroxidase	peroxidase
+628	horseradish peroxidase	peroxidase
+629	oxidoreductase	enzyme
+630	oxygenase	oxidoreductase
+631	papain	enzyme
+632	penicillinase	enzyme
+633	pepsin	enzyme
+634	pepsinogen	enzyme
+635	phosphatase	enzyme
+636	plasmin	enzyme
+637	plasminogen	plasmin
+638	polymerase	enzyme
+639	dna polymerase	polymerase
+640	transcriptase	polymerase
+641	reverse transcriptase	polymerase
+642	protease	enzyme
+643	caspase	protease
+644	angiotensin converting enzyme	protease
+645	plasminogen activator	protease
+646	renin	protease
+647	reductase	enzyme
+648	hmg coa reductase	reductase
+649	rennin	enzyme
+650	secretase	enzyme
+651	streptodornase	enzyme
+652	streptokinase	enzyme
+653	superoxide dismutase	enzyme
+654	telomerase	enzyme
+655	transferase	enzyme
+656	ribonuclease	transferase
+657	transaminase	transferase
+658	glutamic oxalacetic transaminase	transaminase
+659	trypsin	enzyme
+660	trypsinogen	trypsin
+661	urease	enzyme
+662	zymase	enzyme
+663	fibrin	protein
+664	filaggrin	protein
+665	growth factor	protein
+666	nerve growth factor	growth factor
+667	haptoglobin	protein
+668	iodoprotein	protein
+669	thyroprotein	iodoprotein
+670	thyroglobulin	iodoprotein
+671	nucleoprotein	protein
+672	opsin	protein
+673	phosphoprotein	protein
+674	casein	phosphoprotein
+675	plasma protein	protein
+676	gamma globulin	plasma protein
+677	immunoglobulin	gamma globulin
+678	immunoglobulin a	immunoglobulin
+679	immunoglobulin d	immunoglobulin
+680	immunoglobulin e	immunoglobulin
+681	reagin	immunoglobulin e
+682	immunoglobulin g	immunoglobulin
+683	immunoglobulin m	immunoglobulin
+684	tetanus immunoglobulin	immunoglobulin
+685	coagulation factor	plasma protein
+686	fibrinogen	coagulation factor
+687	prothrombin	coagulation factor
+688	thromboplastin	coagulation factor
+689	calcium ion	coagulation factor
+690	proaccelerin	coagulation factor
+691	proconvertin	coagulation factor
+692	antihemophilic factor	coagulation factor
+693	christmas factor	coagulation factor
+694	prothrombinase	coagulation factor
+695	plasma thromboplastin antecedent	coagulation factor
+696	hageman factor	coagulation factor
+697	fibrinase	coagulation factor
+698	prostate specific antigen	protein
+699	proteome	protein
+700	simple protein	protein
+701	actin	simple protein
+702	albumin	simple protein
+703	ricin	albumin
+704	lactalbumin	albumin
+705	serum albumin	albumin
+706	globulin	simple protein
+707	alpha globulin	globulin
+708	serum globulin	globulin
+709	c reactive protein	serum globulin
+710	gamma globulin	globulin
+711	immunoglobulin	gamma globulin
+712	immunoglobulin a	immunoglobulin
+713	immunoglobulin d	immunoglobulin
+714	immunoglobulin e	immunoglobulin
+715	reagin	immunoglobulin e
+716	immunoglobulin g	immunoglobulin
+717	immunoglobulin m	immunoglobulin
+718	tetanus immunoglobulin	immunoglobulin
+719	myosin	globulin
+720	transferrin	globulin
+721	globin	simple protein
+722	glutelin	simple protein
+723	histone	simple protein
+724	prolamine	simple protein
+725	protamine	simple protein
+726	scleroprotein	simple protein
+727	collagen	scleroprotein
+728	elastin	scleroprotein
+729	gelatin	scleroprotein
+730	chondrin	scleroprotein
+731	keratin	scleroprotein
+732	cytokine	protein
+733	tumor necrosis factor	cytokine
+734	lymphokine	cytokine
+735	interleukin	lymphokine
+736	ferritin	protein
+737	antibody	protein
+738	autoantibody	antibody
+739	rheumatoid factor	autoantibody
+740	precipitin	antibody
+741	abo antibodies	antibody
+742	rh antibody	antibody
+743	antitoxin	antibody
+744	antivenin	antitoxin
+745	tetanus antitoxin	antitoxin
+746	agglutinin	antibody
+747	isoagglutinin	agglutinin
+748	heterophil antibody	antibody
+749	isoantibody	antibody
+750	monoclonal antibody	antibody
+751	infliximab	monoclonal antibody
+752	opsonin	antibody
+753	immunoglobulin	antibody
+754	immunoglobulin a	immunoglobulin
+755	immunoglobulin d	immunoglobulin
+756	immunoglobulin e	immunoglobulin
+757	reagin	immunoglobulin e
+758	immunoglobulin g	immunoglobulin
+759	immunoglobulin m	immunoglobulin
+760	tetanus immunoglobulin	immunoglobulin
+761	carbohydrate	macromolecule
+762	ribose	carbohydrate
+763	beet sugar	carbohydrate
+764	cane sugar	carbohydrate
+765	demerara	cane sugar
+766	deoxyribose	carbohydrate
+767	invert sugar	carbohydrate
+768	maple sugar	carbohydrate
+769	monosaccharide	carbohydrate
+770	triose	monosaccharide
+771	tetrose	monosaccharide
+772	pentose	monosaccharide
+773	hexose	monosaccharide
+774	aldohexose	hexose
+775	glucose	aldohexose
+776	glucosamine	glucose
+777	corn sugar	glucose
+778	dextrose	glucose
+779	blood sugar	glucose
+780	ketohexose	hexose
+781	fructose	ketohexose
+782	aldose	monosaccharide
+783	aldohexose	aldose
+784	glucose	aldohexose
+785	glucosamine	glucose
+786	corn sugar	glucose
+787	dextrose	glucose
+788	blood sugar	glucose
+789	ketose	monosaccharide
+790	ketohexose	ketose
+791	fructose	ketohexose
+792	oligosaccharide	carbohydrate
+793	disaccharide	oligosaccharide
+794	lactose	disaccharide
+795	maltose	disaccharide
+796	sucrose	disaccharide
+797	galactose	sucrose
+798	tetrasaccharide	oligosaccharide
+799	stachyose	tetrasaccharide
+800	trisaccharide	oligosaccharide
+801	raffinose	trisaccharide
+802	polysaccharide	carbohydrate
+803	heparin	polysaccharide
+804	chitin	polysaccharide
+805	cellulose	polysaccharide
+806	carboxymethyl cellulose	cellulose
+807	diethylaminoethyl cellulose	cellulose
+808	pulp	cellulose
+809	bagasse	pulp
+810	wood pulp	pulp
+811	pectin	cellulose
+812	glycogen	polysaccharide
+813	inulin	polysaccharide
+814	dextrin	polysaccharide
+815	mucopolysaccharide	polysaccharide
+816	hyaluronic acid	mucopolysaccharide
+817	starch	polysaccharide
+818	arum	starch
+819	cassava	starch
+820	arrowroot	starch
+821	cornstarch	starch
+822	sago	starch
+823	pearl sago	sago
+824	amyloid	starch
+825	otaheite arrowroot	starch
+826	jaggery	carbohydrate
+827	wood sugar	carbohydrate
+828	lipid	macromolecule
+829	fat	lipid
+830	edible fat	fat
+831	cracklings	edible fat
+832	lard	edible fat
+833	marbling	edible fat
+834	shortening	edible fat
+835	suet	edible fat
+836	drippings	edible fat
+837	vegetable oil	edible fat
+838	cooking oil	vegetable oil
+839	sweet oil	vegetable oil
+840	canola oil	vegetable oil
+841	coconut oil	vegetable oil
+842	corn oil	vegetable oil
+843	cottonseed oil	vegetable oil
+844	olive oil	vegetable oil
+845	palm oil	vegetable oil
+846	peanut oil	vegetable oil
+847	salad oil	vegetable oil
+848	safflower oil	vegetable oil
+849	sesame oil	vegetable oil
+850	soybean oil	vegetable oil
+851	sunflower oil	vegetable oil
+852	walnut oil	vegetable oil
+853	madia oil	vegetable oil
+854	drying oil	vegetable oil
+855	animal fat	fat
+856	bone fat	animal fat
+857	butterfat	animal fat
+858	cocoa butter	fat
+859	leaf fat	fat
+860	myelin	fat
+861	polyunsaturated fat	fat
+862	triglyceride	lipid
+863	oil	lipid
+864	sassafras oil	oil
+865	calamus oil	oil
+866	mustard oil	oil
+867	rape oil	oil
+868	safflower oil	oil
+869	hydnocarpus oil	oil
+870	babassu oil	oil
+871	cohune nut oil	oil
+872	almond oil	oil
+873	pennyroyal oil	oil
+874	hyssop oil	oil
+875	spike lavender oil	oil
+876	pennyroyal oil	oil
+877	croton oil	oil
+878	fuel oil	oil
+879	gas oil	fuel oil
+880	animal oil	oil
+881	drying oil	animal oil
+882	blubber	animal oil
+883	bone oil	animal oil
+884	bone oil	animal oil
+885	cod liver oil	animal oil
+886	cod oil	cod liver oil
+887	lanolin	animal oil
+888	fish liver oil	animal oil
+889	tuna oil	fish liver oil
+890	glyceride	animal oil
+891	triglyceride	glyceride
+892	goose grease	animal oil
+893	halibut liver oil	animal oil
+894	lard oil	animal oil
+895	menhaden oil	animal oil
+896	neat's foot oil	animal oil
+897	oleo oil	animal oil
+898	porpoise oil	animal oil
+899	dolphin oil	animal oil
+900	salmon oil	animal oil
+901	sardine oil	animal oil
+902	seal oil	animal oil
+903	shark oil	animal oil
+904	sperm oil	animal oil
+905	tallow	animal oil
+906	beef tallow	tallow
+907	dubbin	tallow
+908	mutton tallow	tallow
+909	tallow oil	animal oil
+910	whale oil	animal oil
+911	wool oil	animal oil
+912	camphor oil	oil
+913	grease	oil
+914	axle grease	grease
+915	essential oil	oil
+916	ilang ilang	essential oil
+917	bitter almond oil	essential oil
+918	attar	essential oil
+919	attar of roses	attar
+920	clove oil	essential oil
+921	costus oil	essential oil
+922	eucalyptus oil	essential oil
+923	turpentine	essential oil
+924	wormwood oil	essential oil
+925	linalool	essential oil
+926	mineral oil	oil
+927	motor oil	oil
+928	fixed oil	oil
+929	fusel oil	oil
+930	stand oil	oil
+931	neroli oil	oil
+932	tall oil	oil
+933	petroleum	oil
+934	residual oil	petroleum
+935	shale oil	oil
+936	linseed oil	oil
+937	tung oil	oil
+938	chaulmoogra oil	oil
+939	lemongrass	oil
+940	phospholipid	lipid
+941	lecithin	phospholipid
+942	wax	lipid
+943	bayberry wax	wax
+944	carnauba wax	wax
+945	candelilla wax	wax
+946	ceresin	wax
+947	floor wax	wax
+948	gondang wax	wax
+949	japan wax	wax
+950	montan wax	wax
+951	pisang wax	wax
+952	scale wax	wax
+953	ski wax	wax
+954	beeswax	wax
+955	ghedda wax	beeswax
+956	cerumen	wax
+957	paraffin	wax
+958	spermaceti	wax
+959	vegetable wax	wax
+960	shellac wax	wax
+961	nucleic acid	macromolecule
+962	nitrobenzene	organic compound
+963	oxime	organic compound
+964	petrochemical	organic compound
+965	phosphocreatine	organic compound
+966	phenol	organic compound
+967	pyrogallol	phenol
+968	creosol	phenol
+969	cresol	phenol
+970	lysol	cresol
+971	naphthol	phenol
+972	alpha naphthol	naphthol
+973	beta naphthol	naphthol
+974	resorcinol	phenol
+975	tannin	phenol
+976	cutch	tannin
+977	catechin	tannin
+978	thymol	phenol
+979	pyrimidine	organic compound
+980	quassia	organic compound
+981	jamaica quassia	quassia
+982	steroid	organic compound
+983	ketosteroid	steroid
+984	androsterone	ketosteroid
+985	estrone	ketosteroid
+986	cortisone	ketosteroid
+987	sterol	steroid
+988	cholesterol	sterol
+989	hdl cholesterol	cholesterol
+990	ldl cholesterol	cholesterol
+991	oxidized ldl cholesterol	ldl cholesterol
+992	ergosterol	sterol
+993	bile acid	steroid
+994	cholic acid	bile acid
+995	cardiac glycoside	steroid
+996	digitalis	cardiac glycoside
+997	digitoxin	digitalis
+998	digoxin	digitalis
+999	nonsteroid	organic compound
+1000	diethylstilbesterol	nonsteroid
+1001	thiouracil	organic compound
+1002	urea	organic compound
+1003	imide	organic compound
+1004	xanthine	organic compound
+1005	ammine	compound
+1006	anhydride	compound
+1007	acetic anhydride	anhydride
+1008	phthalic anhydride	anhydride
+1009	azide	compound
+1010	hydrazoite	azide
+1011	bitter principle	compound
+1012	buffer	compound
+1013	calcium cyanamide	compound
+1014	carbonyl	compound
+1015	carbon disulfide	compound
+1016	cofactor	compound
+1017	cementite	compound
+1018	chloropicrin	compound
+1019	complex	compound
+1020	hydrochloride	complex
+1021	allomorph	compound
+1022	corrosive	compound
+1023	aluminate	compound
+1024	defoliant	compound
+1025	depilatory	compound
+1026	derivative	compound
+1027	dimer	compound
+1028	fixing agent	compound
+1029	fixative	fixing agent
+1030	hypo	fixing agent
+1031	flavone	compound
+1032	formulation	compound
+1033	cleansing agent	formulation
+1034	bathroom cleaner	cleansing agent
+1035	dentifrice	cleansing agent
+1036	toothpaste	dentifrice
+1037	tooth powder	dentifrice
+1038	detergent	cleansing agent
+1039	dishwasher detergent	detergent
+1040	laundry detergent	detergent
+1041	liquid detergent	detergent
+1042	shampoo	cleansing agent
+1043	soap	cleansing agent
+1044	bar soap	soap
+1045	castile soap	soap
+1046	liquid soap	soap
+1047	saddle soap	soap
+1048	soap flakes	soap
+1049	soap powder	soap
+1050	soft soap	soap
+1051	toilet soap	soap
+1052	glycerinated gelatin	formulation
+1053	nebula	formulation
+1054	polish	formulation
+1055	shoe polish	polish
+1056	simoniz	polish
+1057	starch	formulation
+1058	smelling salts	formulation
+1059	enantiomorph	compound
+1060	exotherm	compound
+1061	goitrogen	compound
+1062	benzofuran	compound
+1063	synthetic	compound
+1064	plasticine	synthetic
+1065	phosphor	synthetic
+1066	rubber	synthetic
+1067	silicone rubber	rubber
+1068	neoprene	rubber
+1069	buna	rubber
+1070	butyl rubber	rubber
+1071	hydrate	compound
+1072	monohydrate	hydrate
+1073	hydroxide	compound
+1074	incense	compound
+1075	joss stick	incense
+1076	inorganic compound	compound
+1077	carbide	inorganic compound
+1078	calcium carbide	carbide
+1079	silicon carbide	carbide
+1080	repellent	compound
+1081	insectifuge	repellent
+1082	repellent	compound
+1083	iodocompound	compound
+1084	isomer	compound
+1085	hydroxide	compound
+1086	aluminum hydroxide	hydroxide
+1087	calcium hydroxide	hydroxide
+1088	magnesium hydroxide	hydroxide
+1089	potash	hydroxide
+1090	sodium hydroxide	hydroxide
+1091	menthol	compound
+1092	nitrogen mustard	compound
+1093	nitride	compound
+1094	magnesium nitride	nitride
+1095	oxide	compound
+1096	titanium dioxide	oxide
+1097	pentoxide	oxide
+1098	nitrogen oxide	oxide
+1099	calcium oxide	oxide
+1100	copper oxide	oxide
+1101	dioxide	oxide
+1102	nitrogen dioxide	dioxide
+1103	carbon dioxide	dioxide
+1104	chokedamp	carbon dioxide
+1105	chlorine dioxide	dioxide
+1106	sulfur dioxide	dioxide
+1107	ferric oxide	oxide
+1108	rust	ferric oxide
+1109	monoxide	oxide
+1110	carbon monoxide	monoxide
+1111	peroxide	oxide
+1112	benzoyl peroxide	peroxide
+1113	red lead	oxide
+1114	silica	oxide
+1115	chert	silica
+1116	taconite	chert
+1117	flint	silica
+1118	gunflint	flint
+1119	firestone	flint
+1120	flintstone	flint
+1121	silex	silica
+1122	sulfur oxide	oxide
+1123	superoxide	oxide
+1124	tetroxide	oxide
+1125	trioxide	oxide
+1126	arsenic	trioxide
+1127	zinc oxide	oxide
+1128	zirconium oxide	oxide
+1129	polymer	compound
+1130	deoxyribonucleic acid	polymer
+1131	operon	deoxyribonucleic acid
+1132	complementary dna	deoxyribonucleic acid
+1133	provirus	complementary dna
+1134	dscdna	complementary dna
+1135	episome	deoxyribonucleic acid
+1136	exon	deoxyribonucleic acid
+1137	intron	deoxyribonucleic acid
+1138	junk dna	deoxyribonucleic acid
+1139	recombinant deoxyribonucleic acid	deoxyribonucleic acid
+1140	sticky end	deoxyribonucleic acid
+1141	transposon	deoxyribonucleic acid
+1142	ribonucleic acid	polymer
+1143	messenger rna	ribonucleic acid
+1144	nuclear rna	ribonucleic acid
+1145	transfer rna	ribonucleic acid
+1146	synthetic resin	polymer
+1147	acrylic	synthetic resin
+1148	polypropenonitrile	acrylic
+1149	polymethyl methacrylate	acrylic
+1150	lucite	polymethyl methacrylate
+1151	plexiglas	polymethyl methacrylate
+1152	polyethylene	synthetic resin
+1153	allyl resin	synthetic resin
+1154	urea formaldehyde resin	synthetic resin
+1155	alkyd	synthetic resin
+1156	phenolic resin	synthetic resin
+1157	epoxy	synthetic resin
+1158	crazy glue	epoxy
+1159	melamine resin	synthetic resin
+1160	polyester	synthetic resin
+1161	polyester fiber	polyester
+1162	vinyl polymer	synthetic resin
+1163	polyvinyl acetate	vinyl polymer
+1164	polyvinyl chloride	vinyl polymer
+1165	styrene	vinyl polymer
+1166	polystyrene	styrene
+1167	styrofoam	polystyrene
+1168	copolymer	polymer
+1169	polyurethane	polymer
+1170	polyfoam	polyurethane
+1171	lignin	polymer
+1172	polyamide	polymer
+1173	nylon	polyamide
+1174	silicone	polymer
+1175	bouncing putty	silicone
+1176	trimer	polymer
+1177	preservative	compound
+1178	spice	preservative
+1179	stacte	spice
+1180	quinone	compound
+1181	ubiquinone	quinone
+1182	salt	compound
+1183	acetate	salt
+1184	acetin	acetate
+1185	lead acetate	acetate
+1186	citrate	salt
+1187	arsenate	salt
+1188	chlorate	salt
+1189	dibasic salt	salt
+1190	hypochlorite	salt
+1191	calcium hypochlorite	hypochlorite
+1192	sodium hypochlorite	hypochlorite
+1193	javelle water	sodium hypochlorite
+1194	pyrophosphate	salt
+1195	sulfonate	salt
+1196	alkylbenzenesulfonate	sulfonate
+1197	lactate	salt
+1198	perchlorate	salt
+1199	alkali	salt
+1200	ammonium chloride	salt
+1201	benzoate	salt
+1202	benzoate of soda	benzoate
+1203	borate	salt
+1204	borosilicate	salt
+1205	calcium lactate	salt
+1206	calcium stearate	salt
+1207	carbamate	salt
+1208	ammonium carbamate	carbamate
+1209	carbonate	salt
+1210	ammonium carbonate	carbonate
+1211	bicarbonate	carbonate
+1212	bicarbonate of soda	bicarbonate
+1213	potassium bicarbonate	bicarbonate
+1214	calcium bicarbonate	bicarbonate
+1215	magnesium bicarbonate	bicarbonate
+1216	potassium carbonate	carbonate
+1217	pearl ash	potassium carbonate
+1218	calcium carbonate	carbonate
+1219	dripstone	calcium carbonate
+1220	lithium carbonate	carbonate
+1221	magnesium carbonate	carbonate
+1222	fulminate	salt
+1223	mercury fulminate	fulminate
+1224	chromate	salt
+1225	lead chromate	chromate
+1226	cyanide	salt
+1227	sodium cyanide	cyanide
+1228	potassium cyanide	cyanide
+1229	potassium bromide	salt
+1230	potassium chlorate	salt
+1231	potassium dichromate	salt
+1232	ferricyanide	salt
+1233	ferrocyanide	salt
+1234	potassium ferrocyanide	ferrocyanide
+1235	fluoroboride	salt
+1236	fluosilicate	salt
+1237	glutamate	salt
+1238	halide	salt
+1239	bromide	halide
+1240	hydrogen bromide	bromide
+1241	methyl bromide	bromide
+1242	silver bromide	bromide
+1243	fluoride	halide
+1244	boron trifluoride	fluoride
+1245	hydrogen fluoride	fluoride
+1246	stannous fluoride	fluoride
+1247	sulfur hexafluoride	fluoride
+1248	iodide	halide
+1249	potassium iodide	iodide
+1250	hydrogen iodide	iodide
+1251	silver iodide	iodide
+1252	sodium iodide	iodide
+1253	chloride	halide
+1254	potassium chloride	chloride
+1255	tetrahalide	halide
+1256	isocyanate	salt
+1257	calcium chloride	salt
+1258	calcium sulphate	salt
+1259	gypsum	calcium sulphate
+1260	alabaster	gypsum
+1261	gesso	gypsum
+1262	terra alba	gypsum
+1263	plaster of paris	calcium sulphate
+1264	gesso	plaster of paris
+1265	manganate	salt
+1266	chrome alum	salt
+1267	tartrate	salt
+1268	tartar emetic	tartrate
+1269	bitartrate	tartrate
+1270	oxalacetate	salt
+1271	oxalate	salt
+1272	uranyl oxalate	oxalate
+1273	permanganate	salt
+1274	potassium permanganate	permanganate
+1275	phosphate	salt
+1276	calcium phosphate	phosphate
+1277	sodium phosphate	phosphate
+1278	polyphosphate	salt
+1279	propenoate	salt
+1280	salicylate	salt
+1281	aspirin	salicylate
+1282	aspirin powder	aspirin
+1283	buffered aspirin	aspirin
+1284	enteric coated aspirin	aspirin
+1285	methyl salicylate	salicylate
+1286	salol	salicylate
+1287	double salt	salt
+1288	alum	double salt
+1289	alum	double salt
+1290	rochelle salt	double salt
+1291	paris green	double salt
+1292	bile salt	salt
+1293	glauber's salt	salt
+1294	cream of tartar	salt
+1295	sodium chlorate	salt
+1296	bichromate	salt
+1297	sodium dichromate	salt
+1298	microcosmic salt	salt
+1299	silicate	salt
+1300	sodium carbonate	salt
+1301	sodium carboxymethyl cellulose	salt
+1302	sodium fluoride	salt
+1303	sulfate	salt
+1304	barium sulphate	sulfate
+1305	copper sulfate	sulfate
+1306	blue vitriol	copper sulfate
+1307	magnesium sulfate	sulfate
+1308	epsom salts	magnesium sulfate
+1309	sodium lauryl sulphate	sulfate
+1310	sodium sulphate	sulfate
+1311	zinc sulfate	sulfate
+1312	thiocyanate	salt
+1313	tungstate	salt
+1314	urate	salt
+1315	tophus	urate
+1316	vanadate	salt
+1317	xanthate	salt
+1318	cellulose xanthate	xanthate
+1319	caustic	compound
+1320	lye	caustic
+1321	potash	lye
+1322	sodium hydroxide	lye
+1323	silver nitrate	caustic
+1324	lunar caustic	silver nitrate
+1325	nitrate	compound
+1326	calcium nitrate	nitrate
+1327	cellulose nitrate	nitrate
+1328	pyrocellulose	cellulose nitrate
+1329	pyroxylin	cellulose nitrate
+1330	sodium nitrate	nitrate
+1331	potassium nitrate	nitrate
+1332	nitroglycerin	nitrate
+1333	ammonium nitrate	nitrate
+1334	silver nitrate	nitrate
+1335	lunar caustic	silver nitrate
+1336	uranyl nitrate	nitrate
+1337	chloride	compound
+1338	calomel	chloride
+1339	trichloride	chloride
+1340	nitrogen trichloride	trichloride
+1341	dichloride	chloride
+1342	perchloride	chloride
+1343	iron perchloride	perchloride
+1344	aluminum chloride	chloride
+1345	methylene chloride	chloride
+1346	obidoxime chloride	chloride
+1347	silver chloride	chloride
+1348	stannic chloride	chloride
+1349	hemin	chloride
+1350	heterocyclic compound	compound
+1351	chelate	heterocyclic compound
+1352	silicide	compound
+1353	siloxane	compound
+1354	silicone	siloxane
+1355	bouncing putty	silicone
+1356	solvate	compound
+1357	sternutator	compound
+1358	stripper	compound
+1359	sulfide	compound
+1360	pyrites	sulfide
+1361	hydrogen sulfide	sulfide
+1362	iron disulfide	sulfide
+1363	cadmium sulfide	sulfide
+1364	zinc cadmium sulfide	cadmium sulfide
+1365	zinc sulfide	sulfide
+1366	telluride	compound
+1367	tenderizer	compound
+1368	tetrachloride	compound
+1369	carbon tetrachloride	tetrachloride
+1370	triazine	compound
+1371	yellowcake	compound
+1372	enamel	compound
+1373	pregnanediol	compound
+1374	soil conditioner	chemical
+1375	fertilizer	chemical
+1376	organic	fertilizer
+1377	bonemeal	organic
+1378	neem cake	organic
+1379	manure	organic
+1380	chicken manure	manure
+1381	cow manure	manure
+1382	green manure	manure
+1383	horse manure	manure
+1384	night soil	manure
+1385	fish meal	organic
+1386	guano	organic
+1387	flux	chemical
+1388	soldering flux	flux
+1389	fumigant	chemical
+1390	herbicide	chemical
+1391	agent orange	herbicide
+1392	atrazine	herbicide
+1393	linuron	herbicide
+1394	paraquat	herbicide
+1395	silvex	herbicide
+1396	simazine	herbicide
+1397	intermediate	chemical
+1398	fraction	chemical
+1399	larvicide	chemical
+1400	pesticide	chemical
+1401	acaricide	pesticide
+1402	arsenical	pesticide
+1403	insecticide	pesticide
+1404	pyrethrum	insecticide
+1405	dichlorodiphenyltrichloroethane	insecticide
+1406	larvacide	insecticide
+1407	lead arsenate	insecticide
+1408	lindane	insecticide
+1409	kwell	lindane
+1410	malathion	insecticide
+1411	organophosphate	insecticide
+1412	chlorpyrifos	organophosphate
+1413	parathion	insecticide
+1414	paris green	insecticide
+1415	rotenone	insecticide
+1416	pediculicide	pesticide
+1417	phosphine	pesticide
+1418	scabicide	pesticide
+1419	sheep dip	pesticide
+1420	spray	pesticide
+1421	phytochemical	chemical
+1422	carotenoid	phytochemical
+1423	carotene	carotenoid
+1424	lycopene	carotenoid
+1425	beta carotene	carotenoid
+1426	xanthophyll	carotenoid
+1427	zeaxanthin	carotenoid
+1428	flavonoid	phytochemical
+1429	product	chemical
+1430	hydrolysate	product
+1431	filtrate	product
+1432	percolate	filtrate
+1433	restrainer	chemical
+1434	potassium bromide	restrainer
+1435	stabilizer	chemical
+1436	softener	chemical
+1437	conditioner	softener
+1438	plasticizer	softener
+1439	water softener	softener
+1440	zeolite	water softener
+1441	chabazite	zeolite
+1442	heulandite	zeolite
+1443	natrolite	zeolite
+1444	phillipsite	zeolite

@@ -1,0 +1,487 @@
+0	spike	sports equipment
+1	fire control radar	naval radar
+2	lighting	apparatus
+3	spacecraft	satellite
+4	bridoon	bit
+5	rollerblade	in line skate
+6	recorder	equipment
+7	life support system	equipment
+8	cd player	electronic equipment
+9	reflex camera	camera
+10	lunar excursion module	spacecraft
+11	television monitor	monitor
+12	film	photographic paper
+13	receiver	set
+14	parachute	rescue equipment
+15	cinch	stable gear
+16	cooling system	equipment
+17	breeches buoy	life buoy
+18	ninepin ball	ball
+19	caparison	stable gear
+20	liquid metal reactor	nuclear reactor
+21	video ipod	ipod
+22	water wings	life preserver
+23	croquet ball	ball
+24	circuitry	electronic equipment
+25	job oriented terminal	terminal
+26	black box	recorder
+27	batting helmet	baseball equipment
+28	fast reactor	nuclear reactor
+29	teaching aid	equipment
+30	soccer ball	ball
+31	blue chip	chip
+32	king	chessman
+33	horse	gymnastic apparatus
+34	gas ring	gas burner
+35	instillator	apparatus
+36	weather satellite	satellite
+37	telephone	electronic equipment
+38	spinner	game equipment
+39	gas maser	maser
+40	billiard ball	ball
+41	satellite	equipment
+42	radio transmitter	transmitter
+43	radio phonograph	electronic equipment
+44	electrograph	apparatus
+45	wiffle	ball
+46	quadraphony	stereo
+47	bubble jet printer	ink jet printer
+48	developer	photographic equipment
+49	bathysphere	submersible
+50	gymnastic apparatus	sports equipment
+51	parasail	parachute
+52	croquet ball	croquet equipment
+53	rocker	ice skate
+54	iron	golf club
+55	ink jet printer	dot matrix printer
+56	electronic fetal monitor	monitor
+57	speakerphone	telephone
+58	spark transmitter	radio transmitter
+59	polo mallet	stick
+60	videocassette recorder	tape recorder
+61	reflux condenser	condenser
+62	mashie	iron
+63	fluoroscope	x ray machine
+64	marble	ball
+65	mashie niblick	iron
+66	thermonuclear reactor	nuclear reactor
+67	stable gear	gear
+68	tennis ball	ball
+69	golfcart	golf equipment
+70	pricket	spike
+71	wire recorder	magnetic recorder
+72	x ray machine	apparatus
+73	castle	chessman
+74	boxing equipment	sports equipment
+75	playback	electronic equipment
+76	tile	man
+77	bowling ball	ball
+78	knight	chessman
+79	positive	film
+80	flash	photographic equipment
+81	gas burner	burner
+82	ship towed long range acoustic detection system	shipboard system
+83	pine tar rag	baseball equipment
+84	satellite transmitter	transmitter
+85	heterodyne receiver	radio receiver
+86	foucault pendulum	pendulum
+87	electrical system	equipment
+88	horseshoe	game equipment
+89	life buoy	life preserver
+90	peripheral	electronic equipment
+91	cage	net
+92	xerox	duplicator
+93	mat	sports equipment
+94	central processing unit	electronic equipment
+95	push button radio	radio receiver
+96	bowling equipment	game equipment
+97	motion picture camera	camera
+98	second base	base
+99	punching bag	ball
+100	audio system	electronic equipment
+101	bishop	chessman
+102	photographic paper	photographic equipment
+103	desk phone	telephone
+104	home plate	base
+105	queen	chessman
+106	motion picture film	film
+107	compact disk burner	recorder
+108	crown jewels	regalia
+109	basic point defense missile system	shipboard system
+110	positron emission tomography scanner	tomograph
+111	portrait camera	camera
+112	semaphore	apparatus
+113	baggage	materiel
+114	bowling pin	bowling equipment
+115	roll film	film
+116	radiotherapy equipment	equipment
+117	bocce ball	ball
+118	gear	equipment
+119	tape player	electronic equipment
+120	scrubber	purifier
+121	maser	amplifier
+122	stereo	reproducer
+123	cassette deck	tape deck
+124	coronet	crown
+125	hockey stick	stick
+126	marching order	materiel
+127	piton	spike
+128	puzzle	game
+129	audio amplifier	amplifier
+130	snaffle	bit
+131	terminal	electronic equipment
+132	scanner	detector
+133	wire matrix printer	dot matrix printer
+134	stick	sports equipment
+135	breeder reactor	nuclear reactor
+136	negative	film
+137	test equipment	equipment
+138	trampoline	gymnastic apparatus
+139	jack	ball
+140	output device	peripheral
+141	catcher's mask	baseball equipment
+142	squash ball	ball
+143	ipod	stereo
+144	blister pack	packaging
+145	roofing	material
+146	naval equipment	equipment
+147	oxyacetylene torch	blowtorch
+148	crossbar	game equipment
+149	rig	gear
+150	joystick	data input device
+151	game	game equipment
+152	roulette ball	ball
+153	wicket	cricket equipment
+154	lithograph	duplicator
+155	tenpin	bowling pin
+156	digital camera	camera
+157	jack	game equipment
+158	radio receiver	receiver
+159	pinball machine	game equipment
+160	scrambler	electronic equipment
+161	first base	base
+162	roulette wheel	game equipment
+163	parallel bars	gymnastic apparatus
+164	aerator	apparatus
+165	radiotelephone	telephone
+166	chessman	man
+167	net	goal
+168	life jacket	life preserver
+169	walkman	stereo
+170	basketball	basketball equipment
+171	regalia	gear
+172	sporting goods	sports equipment
+173	cricket bat	cricket equipment
+174	baseball	baseball equipment
+175	checker	man
+176	sand wedge	wedge
+177	horsecloth	caparison
+178	dot matrix printer	printer
+179	robotics equipment	equipment
+180	direction finder	receiver
+181	tee	golf equipment
+182	short iron	iron
+183	shipboard system	naval equipment
+184	rigging	gear
+185	kit	gear
+186	bar mask	catcher's mask
+187	atomic pile	nuclear reactor
+188	bar bit	bit
+189	pelham	bit
+190	mixer	electronic equipment
+191	black	man
+192	weight	sports equipment
+193	drogue	parachute
+194	niblick	iron
+195	metronome	pendulum
+196	satellite receiver	receiver
+197	stall bar	gymnastic apparatus
+198	television camera	television equipment
+199	purifier	apparatus
+200	vaulting horse	horse
+201	television transmitter	transmitter
+202	volleyball net	net
+203	ice skate	skate
+204	equalizer	electronic equipment
+205	pool table	game equipment
+206	jigsaw puzzle	puzzle
+207	barbell	weight
+208	in line skate	skate
+209	radio compass	direction finder
+210	uneven parallel bars	parallel bars
+211	rosin bag	baseball equipment
+212	sewing kit	kit
+213	driver	wood
+214	physical pendulum	pendulum
+215	clock pendulum	physical pendulum
+216	material	equipment
+217	life support system	equipment
+218	carpenter's kit	kit
+219	x ray film	film
+220	badminton equipment	sports equipment
+221	baseball	ball
+222	goal	game equipment
+223	polaroid camera	camera
+224	mouthpiece	sports equipment
+225	boiling water reactor	water cooled reactor
+226	water cooled reactor	nuclear reactor
+227	third base	base
+228	ghetto blaster	stereo
+229	automation	equipment
+230	batting glove	baseball equipment
+231	television receiver	receiver
+232	oscillograph	recorder
+233	photostat	duplicator
+234	blowtorch	burner
+235	roller skate	skate
+236	camera	photographic equipment
+237	crystal set	radio receiver
+238	monitor	electronic equipment
+239	pitching wedge	wedge
+240	discus	sports equipment
+241	candid camera	camera
+242	eight ball	pool ball
+243	transmitter	set
+244	cardiac monitor	monitor
+245	pilot burner	gas burner
+246	mae west	life jacket
+247	clay pigeon	target
+248	backboard	game equipment
+249	reel	film
+250	halter	headgear
+251	rings	gymnastic apparatus
+252	pommel horse	horse
+253	pressurized water reactor	water cooled reactor
+254	hectograph	duplicator
+255	microfiche	microfilm
+256	baseball equipment	sports equipment
+257	ultracentrifuge	centrifuge
+258	lander	spacecraft
+259	tomograph	x ray machine
+260	liebig condenser	condenser
+261	lacrosse ball	ball
+262	canvas	mat
+263	space station	satellite
+264	paintball gun	game equipment
+265	softball	ball
+266	birdcage mask	catcher's mask
+267	headpin	bowling pin
+268	figure skate	ice skate
+269	still	apparatus
+270	off line equipment	electronic equipment
+271	ballistic pendulum	physical pendulum
+272	incubator	apparatus
+273	golf glove	golf equipment
+274	heat pump	apparatus
+275	sequence	film
+276	camcorder	television camera
+277	layette	kit
+278	crystal detector	detector
+279	hammer	sports equipment
+280	space shuttle	spacecraft
+281	light meter	photographic equipment
+282	baseball glove	baseball equipment
+283	rugby ball	ball
+284	handball	ball
+285	facsimile	duplicator
+286	astronomy satellite	satellite
+287	base	baseball equipment
+288	starship	spacecraft
+289	railing	material
+290	cricket ball	cricket equipment
+291	first aid kit	kit
+292	generator	apparatus
+293	white	man
+294	basketball	ball
+295	volleyball	ball
+296	speed skate	ice skate
+297	stop bath	developer
+298	polo ball	ball
+299	pendulum	apparatus
+300	candlepin	bowling pin
+301	gas bracket	burner
+302	microfilm	film
+303	wood	golf club
+304	dumbbell	weight
+305	quoit	game equipment
+306	skylab	space station
+307	cricket equipment	sports equipment
+308	metal wood	wood
+309	crampon	spike
+310	drill rig	rig
+311	hockey skate	ice skate
+312	stock in trade	equipment
+313	photographic equipment	equipment
+314	computer keyboard	data input device
+315	midiron	iron
+316	pay phone	telephone
+317	impedimenta	baggage
+318	tape recorder	magnetic recorder
+319	spoon	wood
+320	shuttlecock	badminton equipment
+321	putter	iron
+322	minisub	submersible
+323	wicket	croquet equipment
+324	headgear	stable gear
+325	ping pong ball	ball
+326	golf club	golf equipment
+327	diving bell	submersible
+328	mimeograph	duplicator
+329	footage	film
+330	long iron	iron
+331	apishamore	saddle blanket
+332	clapperboard	photographic equipment
+333	sputnik	satellite
+334	croquet mallet	croquet equipment
+335	data input device	peripheral
+336	drilling platform	drill rig
+337	apparatus	equipment
+338	basket	goal
+339	driving iron	iron
+340	wedge	iron
+341	flash camera	camera
+342	optical bench	apparatus
+343	materiel	equipment
+344	ninepin	bowling pin
+345	drogue parachute	parachute
+346	boxing glove	boxing equipment
+347	surface search radar	naval radar
+348	telegraph	apparatus
+349	lens	electronic equipment
+350	martingale	stable gear
+351	electronic equipment	equipment
+352	catalytic cracker	chemical reactor
+353	submersible	apparatus
+354	salyut	space station
+355	clock radio	radio receiver
+356	target	sports equipment
+357	brassie	wood
+358	amplifier	electronic equipment
+359	basket	basketball equipment
+360	bit	stable gear
+361	golf equipment	sports equipment
+362	sequencer	apparatus
+363	king	checker
+364	skate	sports equipment
+365	modem	electronic equipment
+366	point and shoot camera	camera
+367	chinese puzzle	puzzle
+368	scanner	data input device
+369	nuclear reactor	apparatus
+370	golf ball	golf equipment
+371	thermal reactor	nuclear reactor
+372	titrator	apparatus
+373	spy satellite	satellite
+374	batting cage	baseball equipment
+375	booster	amplifier
+376	dial telephone	telephone
+377	roll	film
+378	jammer	transmitter
+379	sports equipment	equipment
+380	goniometer	direction finder
+381	game equipment	equipment
+382	duplicator	apparatus
+383	audiovisual	teaching aid
+384	hematocrit	centrifuge
+385	saddle blanket	stable gear
+386	recording system	audio system
+387	photocopier	duplicator
+388	monitor	electronic equipment
+389	javelin	sports equipment
+390	baseball bat	baseball equipment
+391	pool ball	ball
+392	cassette recorder	recorder
+393	box camera	camera
+394	soda fountain	apparatus
+395	taw	marble
+396	dictaphone	tape recorder
+397	rescue equipment	equipment
+398	packaging	material
+399	shot	sports equipment
+400	croquet equipment	sports equipment
+401	bunsen burner	gas burner
+402	remote terminal	terminal
+403	cricket ball	ball
+404	orthochromatic film	film
+405	magnetic recorder	recorder
+406	wrestling mat	mat
+407	multichannel recorder	recorder
+408	golf bag	golf equipment
+409	ball	game equipment
+410	naval radar	naval equipment
+411	man	game equipment
+412	crossword puzzle	puzzle
+413	pawn	chessman
+414	yoke	stable gear
+415	sensitometer	photographic equipment
+416	sound film	motion picture film
+417	medicine ball	ball
+418	cassette player	electronic equipment
+419	cue ball	billiard ball
+420	hi fi	reproducer
+421	bridle	headgear
+422	kipp's apparatus	apparatus
+423	oscilloscope	electronic equipment
+424	mess kit	kit
+425	acoustic modem	modem
+426	chemical reactor	apparatus
+427	set	electronic equipment
+428	heliograph	apparatus
+429	harness	stable gear
+430	duckpin	bowling pin
+431	chip	counter
+432	anti submarine rocket	shipboard system
+433	burner	apparatus
+434	football	ball
+435	net	game equipment
+436	simple pendulum	pendulum
+437	target acquisition system	shipboard system
+438	backlighting	lighting
+439	object ball	billiard ball
+440	fuel system	equipment
+441	fishing gear	gear
+442	bathyscaphe	submersible
+443	horizontal bar	gymnastic apparatus
+444	centrifuge	apparatus
+445	life preserver	rescue equipment
+446	reproducer	audio system
+447	pin	golf equipment
+448	tape deck	electronic equipment
+449	gun pendulum	ballistic pendulum
+450	curb	bit
+451	air search radar	naval radar
+452	enlarger	photographic equipment
+453	basketball equipment	sports equipment
+454	cytophotometer	light meter
+455	balance beam	gymnastic apparatus
+456	space capsule	spacecraft
+457	extension	telephone
+458	surface to air missile system	shipboard system
+459	field hockey ball	ball
+460	tangram	puzzle
+461	mound	baseball equipment
+462	handset	telephone
+463	reformer	apparatus
+464	condenser	apparatus
+465	cellular telephone	radiotelephone
+466	printer	peripheral
+467	gas cooled reactor	nuclear reactor
+468	bitewing	x ray film
+469	coffey still	still
+470	webcam	digital camera
+471	counter	game equipment
+472	detector	electronic equipment
+473	bowl	ball
+474	cascade liquefier	apparatus
+475	sound camera	motion picture camera
+476	bard	caparison
+477	racquetball	ball
+478	film clip	film
+479	naval tactical data system	shipboard system
+480	television equipment	electronic equipment
+481	communications satellite	satellite
+482	panchromatic film	film
+483	hame	stable gear
+484	golf ball	ball
+485	crown	crown jewels
+486	computerized axial tomography scanner	tomograph
